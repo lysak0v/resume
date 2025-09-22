@@ -1,4 +1,4 @@
-# **Александр Лысаков**
+◊# **Александр Лысаков**
 
 React Frontend Developer
 
@@ -41,7 +41,7 @@ _Ключевые достижения и обязанности:_
 - Разрабатывал адаптивные публичные и бэк-офис пользовательские интерфейсы на **React + TypeScript**.
 - Активно участвовал во **внедрении и развитии микро-фронтенд архитектуры** на базе **Webpack Module Federation**.
 - Успешно выполнил **миграцию** ключевых технологий проекта: Node.js 18 -> 22, React 18 -> 19, Recoil -> Jotai, Material-UI 5 -> 7.
-- Учавствовал в разработке и поддержке **UI-kit** на базе **Material-UI** с применением Storybook.
+- Учавствовал в разработке и поддержке **UI-kit** на базе **Material-UI** с применением **Storybook**.
 - Реализовал модуль аутентификации и авторизации на базе **Keycloak**.
 - Разрабатывал сложные формы (wizard и тп.) с валидацией (**react-hook-form + Yup**) и маскированием данных.
 - Работал в условиях наличия и отсутствия макетов и постановок, по принципу API first так и без API с его MOCK-ированием.
@@ -72,9 +72,9 @@ _Стек:_ .NET Core, C#, JavaScript, Ext JS, CSS, MS SQL.
 **Проект: FESCO**
 Разработка и сопровождение CRM на платформе Microsoft Dynamics 365 (Cloud).
 
-_Стек:_ .NET Core, Microsoft Dynamics 365 (Cloud), Azure AD, Azure Functions, Azure SQL, dotPeek
+_Стек:_ .NET Core, Microsoft Dynamics 365 (Cloud), Azure App Service, Azure Functions, Azure AD, Azure SQL, dotPeek
 
-#### **Разработчик Misrosoft Dynamics | Navicon**
+#### **Разработчик Microsoft Dynamics | Navicon**
 
 **Ноябрь 2020 – Январь 2022** (1 год 3 месяца)
 
@@ -125,6 +125,7 @@ _Стек:_ .NET, C#, Dynamics CRM, JavaScript, React, HTML, CSS, MS SQL, Web AP
 
 _Достижение:_
 
+- Стабильная работа без блокировок на протяжении более 4х лет
 - 100+ активных пользователей на платной подписке
 - Развернута open-source админ панель
 - Развернут telegram бот с оплатой подписки и её дальнейшим получением и настройкой, реферальной программой, промо кодами, рассылкой сервисных сообщений
