@@ -7,7 +7,7 @@ React Frontend Developer
 - **32 года**
 - **Город:** Челябинск
 - **Телефон:** +79220179107
-- **Email:** <lysak0v+hh@ya.ru>
+- **Email:** [lysak0v+hh@ya.ru](mailto:lysak0v+hh@ya.ru)
 - **Telegram:** <https://t.me/lysak0v>
 - **Английский:** Pre-Intermediate
 
