@@ -13,6 +13,12 @@ React Frontend Developer
 
 ---
 
+### **О себе**
+
+Опытный Frontend-разработчик с более чем 5-летним опытом, специализирующийся на создании сложных веб-приложений на **React и TypeScript**. Обладаю широким техническим кругозором, имею опыт работы на позициях бэкенд-разработчика и инженера поддержки, что позволяет эффективно взаимодействовать со всеми участниками команды и глубоко понимать полный жизненный цикл продукта. Имею успешный опыт внедрения микро-фронтенд архитектуры и миграции крупных проектов на новые версии стека технологий. Нацелен на создание качественного, поддерживаемого и производительного кода.
+
+---
+
 ## **Ключевые навыки**
 
 - **Frontend:** React, TypeScript, JavaScript (ES6+), Micro-Frontends (Webpack Module Federation)
@@ -89,6 +95,18 @@ _Обязанности:_
 
 _Стек:_ .NET, C#, Dynamics CRM, JavaScript, React, HTML, CSS, MS SQL, Web API, Hangfire, TFS, JIRA.
 
+#### **Разработчик | Тециус**
+
+**Март 2020 – Ноябрь 2020** (9 месяцев)
+
+**Проект: Росдормониторинг «ВГК и выдача специальных разрешений»**
+Разработка и сопровождение информационной системы для осуществления весогабаритного контроля и выдачи специальных разрешений.
+
+_Стек:_ .NET, C#, ASP.NET WebForms, WCF, HTML, CSS, JS, MS SQL, PostgreSQL, GitLab, SVN, JIRA
+
+О проекте:
+[ссылка](https://www.ibs.ru/products/ibs-vydacha-spetsialnykh-razresheniy/informatsionnaya-sistema-organizatsii-protsessa-vydachi-spetsialnykh-razresheniy-na-avtomobilnuyu-perevozku-krupnogabaritnykh-i-tyazhelovesnykh-gruzov-ibs-vydacha-spetsialnykh-razresheniy)
+
 ---
 
 ### **Образование**
@@ -109,10 +127,4 @@ _Стек:_ .NET, C#, Dynamics CRM, JavaScript, React, HTML, CSS, MS SQL, Web AP
 
 ### **Сертификаты**
 
-- Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate
-
----
-
-### **О себе**
-
-Опытный Frontend-разработчик с более чем 5-летним опытом, специализирующийся на создании сложных веб-приложений на **React и TypeScript**. Обладаю широким техническим кругозором, имею опыт работы на позициях бэкенд-разработчика и инженера поддержки, что позволяет эффективно взаимодействовать со всеми участниками команды и глубоко понимать полный жизненный цикл продукта. Имею успешный опыт внедрения микро-фронтенд архитектуры и миграции крупных проектов на новые версии стека технологий. Нацелен на создание качественного, поддерживаемого и производительного кода.
+- Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate (2022)
